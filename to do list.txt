@@ -1,2 +1,3 @@
 to do list
 confirm to save and commit
+4. studying
